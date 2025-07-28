@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ebe1e70058344f94962404de7adf8b8a
+guid: 3a724cc660234cfcb45a3c0b34b29374
 labels:
 - gvh
 - gvh_manifest
-- gvh_version-8.1.0
-- gvhp_exportpath-Firebase/Editor/FirebaseRemoteConfig_version-8.1.0_manifest.txt
+- gvh_version-8.2.0
+- gvhp_exportpath-Firebase/Editor/FirebaseRemoteConfig_version-8.2.0_manifest.txt
 - gvhp_manifestname-0Firebase Remote Config
 - gvhp_manifestname-1FirebaseRemoteConfig
 timeCreated: 0
